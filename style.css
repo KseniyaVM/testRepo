@@ -1,0 +1,10 @@
+h1 {
+  font-size: 18px;
+  color: violet;
+  text-transform: uppercase;
+}
+p {
+  font-size: 16px;
+  color: blueviolet;
+  font-weight: 900;
+}
